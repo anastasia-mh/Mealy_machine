@@ -1,0 +1,97 @@
+{
+  "Mealy machine": [
+    {
+      "from": "C0",
+      "in_signal": "a1",
+      "to": "C0",
+      "out_signal": "b3"
+    },
+    {
+      "from": "C0",
+      "in_signal": "a2",
+      "to": "C4",
+      "out_signal": "b1"
+    },
+    {
+      "from": "C0",
+      "in_signal": "a3",
+      "to": "C2",
+      "out_signal": "b4"
+    },
+    {
+      "from": "C1",
+      "in_signal": "a1",
+      "to": "C3",
+      "out_signal": "b3"
+    },
+    {
+      "from": "C1",
+      "in_signal": "a2",
+      "to": "C0",
+      "out_signal": "b1"
+    },
+    {
+      "from": "C1",
+      "in_signal": "a3",
+      "to": "C2",
+      "out_signal": "b4"
+
+    },
+
+    {
+      "from": "C2",
+      "in_signal": "a1",
+      "to": "C3",
+      "out_signal": "b3"
+    },
+    {
+      "from": "C2",
+      "in_signal": "a2",
+      "to": "C0",
+      "out_signal": "b1"
+    },
+    {
+      "from": "C2",
+      "in_signal": "a3",
+      "to": "C2",
+      "out_signal": "b4"
+    },
+    {
+
+      "from": "C3",
+      "in_signal": "a1",
+      "to": "C3",
+      "out_signal": "b3"
+    },
+    {
+      "from": "C3",
+      "in_signal": "a2",
+      "to": "C0",
+      "out_signal": "b1"
+    },
+    {
+      "from": "C3",
+      "in_signal": "a3",
+      "to": "C2",
+      "out_signal": "b4"
+    },
+    {
+      "from": "C4",
+      "in_signal": "a1",
+      "to": "C3",
+      "out_signal": "b3"
+    },
+    {
+      "from": "C4",
+      "in_signal": "a2",
+      "to": "C0",
+      "out_signal": "b1"
+    },
+    {
+      "from": "C4",
+      "in_signal": "a3",
+      "to": "C2",
+      "out_signal": "b4"
+    }
+  ]
+}
